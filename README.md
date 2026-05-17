@@ -48,4 +48,14 @@ The final node executes an HTTP `POST` handshake using local bearer token author
 
 * **Alert Fatigue Mitigation:** Automated enrichment reduces analyst triage time from minutes to milliseconds, ensuring that human intervention is reserved strictly for high-fidelity, validated incidents.
 
+---
 
+## 📸 Deployment Gallery & Verification
+
+### Successful Playbook Execution & API Handshake (Shuffle)
+*The screenshot below verifies successful log parsing, regex evaluation, and a `200 OK` return code from the VirusTotal API threat evaluation threat loop.*
+![Shuffle Execution Execution](shuffle_execution.png)
+
+### Automated Alert Creation (TheHive Dashboard)
+*The final output showing the security alert successfully generated within the localized analyst triage queue with rich markdown context.*
+![TheHive Alert Ticket](thehive_alert.png)
