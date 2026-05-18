@@ -50,6 +50,8 @@ The final node executes an HTTP `POST` handshake using local bearer token author
 
 ---
 
+---
+
 ## 📸 Deployment Gallery & Verification
 
 ### Successful Playbook Execution & API Handshake (Shuffle)
